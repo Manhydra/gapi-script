@@ -1,6 +1,6 @@
 {
-  "name": "gapi-script",
-  "version": "1.2.0",
+  "name": "@manhydra/gapi-script",
+  "version": "1.2.1",
   "description": "package to load gapi script and some functions",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,6 @@
   "homepage": "https://github.com/partnerhero/gapi-script#readme",
   "types": "./index.d.ts",
   "devDependencies": {
-    "@types/gapi.auth2": "^0.0.53"
+    "@types/gapi.auth2": "^0.0.60"
   }
 }
